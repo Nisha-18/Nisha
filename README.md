@@ -1,2 +1,3 @@
 # Nisha
-Hello world, this is my profile
+Hi everyone,
+I am a passionate Cloud and DevOps engineer with knowldge in AWS, Docker, Kubernetes, Ansible, Terraform, and Python. I love automating processes, optimizing infrastructure, and building scalable solutions in the cloud and I am constantly learning and exploring new technologies
